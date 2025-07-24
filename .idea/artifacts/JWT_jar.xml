@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="JWT:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/JWT_jar</output-path>
-    <root id="archive" name="JWT Suite.jar">
-      <element id="module-output" name="JWT" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/portswigger/burp/extensions/montoya-api/2025.6/montoya-api-2025.6.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
