@@ -1,4 +1,4 @@
-# JWT Manager - Burp Suite Extension
+# JWT Suite - Burp Suite Extension
 
 ![JWT Manager](https://img.shields.io/badge/Burp%20Suite-Extension-orange)
 ![Java](https://img.shields.io/badge/Java-17+-blue)
